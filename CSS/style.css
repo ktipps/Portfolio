@@ -1,0 +1,126 @@
+.inline-block{
+    display: inline-block;
+    padding: 20px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+
+}
+nav{
+display: inline-block;
+width: 73%;
+padding: 1;
+}
+
+ul{
+    width: 50%;
+}
+
+ul:hover{
+    font-weight:bold;
+    text-decoration-line: underline;
+}
+
+.karahand{
+    display: inline-block;
+    position: relative; 
+    padding: 50px;
+}
+
+.text{
+    position: absolute;
+    font-family:'Work Sans', sans-serif;
+    font-size: 20px;
+    top: 335px;
+    line-height: 60px;
+    padding: 50px;
+    font-weight: 100; 
+}
+
+.mywork{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1%;
+    width: 1%;
+}
+
+.case-studies{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400; 
+    line-height: 30px;
+}
+
+.view-the-case-study{
+    background-color:#FFF;
+    border:none;
+    color: #B54600;
+    text-align: left; 
+    display: inline-block; 
+    font-size: 16px;
+}
+
+.view-the-case-study:hover{
+    font-weight:bold;
+    text-decoration-line: underline;
+}
+
+.footer-bird{
+    display: inline-block;
+    position: relative; 
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.starting_project{
+    position: absolute;
+    font-family:'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    top: 338px;
+    left: 338px;
+    line-height: 80px;
+    padding: 90px;
+}
+
+.lets-talk{
+    position: absolute;
+    font-family:'Work Sans', sans-serif;
+    font-weight: 400;
+    color: #B54600;
+    background-color: #FFF;
+    border: none;
+    font-size: 35px;
+    top: 580px;
+    left: 625px;
+
+}
+
+.lets-talk:hover{
+    font-weight:bold;
+    text-decoration-line: underline;
+}
+
+footer{
+    display: block;
+    position: relative; 
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Work Sans', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+
